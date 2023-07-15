@@ -1,7 +1,7 @@
 body{
     background-image: url(../imagens/back\ groud.jpeg);
     background-repeat: no-repeat;
-    background-size:99.99%;
+    background-size:cover;
     background-position: center;
     font-family: 'VT323', monospace;
     
